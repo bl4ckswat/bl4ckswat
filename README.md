@@ -27,7 +27,8 @@ The cute cat is always around, no matter where. It loves coding, especially buil
 ## Follow my trail 🐾
 <img align="right" width="150" src="/bl4ckcat.gif">
 
-- <a href="https://blackswat.my.id/">Blackswat</a> 🌎<img src="https://img.shields.io/website?url=https%3A%2F%2Fblackswat.my.id%2F" alt="website" align="right"/>
+- <a href="https://blackswat.my.id/">Blackswat</a> 🌎
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fblackswat.my.id%2F" alt="website"/>
 
 ---
 
@@ -35,7 +36,8 @@ And remember, no matter how many lines of code you write, there's always a cat r
 
 Happy coding and may your websites never have 404s... unless it's a cat page! 😹
 
-▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:07 <img src="https://komarev.com/ghpvc/?username=bl4ckswat&label=Profile%20views&color=00aa00&style=flat" alt="bl4ckswat" align="right"/><img src="https://img.shields.io/github/stars/bl4ckswat" alt="bl4ckswat" align="right"/><a href="https://x.com/bl4ckswat" target="_blank"><img src="https://img.shields.io/twitter/follow/bl4ckswat" alt="website" align="right"/></a>
+▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:07 <img src="https://komarev.com/ghpvc/?username=bl4ckswat&label=Profile%20views&color=00aa00&style=flat" alt="bl4ckswat" align="right"/>
+<img src="https://img.shields.io/github/stars/bl4ckswat" alt="bl4ckswat" align="right"/><a href="https://x.com/bl4ckswat" target="_blank">
 
 
 
