@@ -34,14 +34,16 @@ The cute cat is always around, no matter where. It loves coding, especially buil
 
 <details>
 <summary>
- •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:07 <img src="https://komarev.com/ghpvc/?username=bl4ckswat&label=Profile%20views&color=00aa00&style=flat" alt="bl4ckswat" align="right"/>
+ •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:07
 </summary><br>
 And remember, no matter how many lines of code you write, there's always a cat ready to "debug" with a nap on your keyboard! 🐾💻
 
 Happy coding and may your websites never have 404s... unless it's a cat page! 😹
 </details>
 
-<img src="https://img.shields.io/github/stars/bl4ckswat" alt="bl4ckswat" align="right"/><a href="https://x.com/bl4ckswat" target="_blank">
+<br>
+<img src="https://komarev.com/ghpvc/?username=bl4ckswat&label=Profile%20views&color=00aa00&style=flat" alt="bl4ckswat" align="right"/>
+<img src="https://img.shields.io/github/stars/bl4ckswat" alt="bl4ckswat" align="left"/><a href="https://x.com/bl4ckswat" target="_blank">
 
 
 
