@@ -42,8 +42,7 @@ Happy coding and may your websites never have 404s... unless it's a cat page! ğŸ
 </details>
 
 <br>
-<img src="https://komarev.com/ghpvc/?username=bl4ckswat&label=Profile%20views&color=00aa00&style=flat" alt="bl4ckswat" align="right"/>
-<img src="https://img.shields.io/github/stars/bl4ckswat" alt="bl4ckswat" align="left"/><a href="https://x.com/bl4ckswat" target="_blank">
+<img src="https://komarev.com/ghpvc/?username=bl4ckswat&label=Profile%20views&color=00aa00&style=flat" alt="bl4ckswat" align="right"/><img src="https://img.shields.io/github/stars/bl4ckswat" alt="bl4ckswat" align="left"/><a href="https://x.com/bl4ckswat" target="_blank">
 
 
 
