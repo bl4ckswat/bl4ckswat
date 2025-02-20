@@ -37,10 +37,10 @@ The cute cat is always around, no matter where. It loves coding, especially buil
 <details>
 <summary>
  •၊၊||၊|။||||။‌‌‌‌‌၊|• 0:07
-</summary><br>
+</summary><br><br>
 
 <a href="https://saweria.co/bl4ckswat" target="_blank" title="Support Me">
-    <img src="/saweria-bl4ckswat.png" alt="QR Code Saweria" width="200" align="right">
+    <img src="/saweria-bl4ckswat.webp" alt="QR Code Saweria" width="200" align="right">
 </a>
 
 And remember, no matter how many lines of code you write, there's always a cat ready to "debug" your work—usually by taking a cozy nap right on your keyboard, stepping on random keys, or demanding attention at the most critical moment! 🐾💻😺
