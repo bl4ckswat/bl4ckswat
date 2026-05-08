@@ -45,7 +45,7 @@ The cute cat is always around, no matter where. It loves coding, especially buil
     <img src="/saweria-bl4ckswat.webp" alt="QR Code Saweria" width="200" align="right">
 </a>
 
-And remember, no matter how many lines of code you write, there's always a cat ready to "debug" your work—usually by taking a cozy nap right on your keyboard, stepping on random keys, or demanding attention at the most critical moment! 🐾💻😺
+And remember, no matter how many lines of code you write, there's always a cat ready to "debug" your work usually by taking a cozy nap right on your keyboard, stepping on random keys, or demanding attention at the most critical moment! 🐾💻😺
 <br><br>
 Happy coding and may your websites never have 404s... unless it's a cat page! 😹
 </details>
