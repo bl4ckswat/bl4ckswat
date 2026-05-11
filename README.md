@@ -24,15 +24,9 @@ The cute cat is always around, no matter where. It loves coding, especially buil
 
 ## Languages and Tools:
 
-<table>
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"></td>
-<td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="40"></td>
-</tr>
-</table>
+## Languages and Tools
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue,nuxtjs,arduino,bash,firebase,git,linux,mysql,nodejs,python,vscode&theme=dark" />
 
 ## Follow my trail 🐾
 
