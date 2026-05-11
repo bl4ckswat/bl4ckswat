@@ -22,10 +22,6 @@ The cute cat is always around, no matter where. It loves coding, especially buil
 <img  alt="bl4ckswat's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/bl4ckswat?cardType=octocat&theme=dark&preferLogin=false&Title=FFFFFF00&Background=DDDDDD00&Border=DDDDDD00&Ring=04CA1F&Text=8D8D8D" />
 
 
-## Languages and Tools:
-
-## Languages and Tools
-
 ## Languages and Tools
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue,nuxtjs,arduino,bash,firebase,git,linux,mysql,nodejs,python,vscode,github,cloudflare&theme=dark" />
