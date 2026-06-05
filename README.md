@@ -24,7 +24,7 @@ The cute cat is always around, no matter where. It loves coding, especially buil
 
 ## Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue,nuxtjs,arduino,bash,firebase,git,linux,mysql,nodejs,python,vscode,github,cloudflare&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue,nuxtjs,react,nextjs,arduino,bash,firebase,supabase,git,linux,mysql,nodejs,python,vscode,github,cloudflare&theme=dark" />
 
 ## Follow my trail 🐾
 
